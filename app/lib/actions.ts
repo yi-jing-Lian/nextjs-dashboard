@@ -87,7 +87,7 @@ export async function createInvoice(prevState: State, formData: FormData) {
     revalidatePath('/dashboard/invoices');
     redirect('/dashboard/invoices');
   }
-  
+
   export async function authenticate(
     prevState: string | undefined,
     formData: FormData,
