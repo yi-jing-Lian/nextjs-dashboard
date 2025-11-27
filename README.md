@@ -4,6 +4,6 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-## what different between this branch with main?
+## How is this branch different from main?
 - Call c# api in invoices page
 - Keep input data after validation fails 
